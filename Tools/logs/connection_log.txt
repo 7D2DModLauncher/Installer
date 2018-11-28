@@ -1,0 +1,38 @@
+
+
+[2018-05-10 19:29:10] Log session started
+[2018-05-10 19:29:10] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:10] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2018-05-10 19:29:10] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2018-05-10 19:29:11] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:11] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:11] [0,0] Server says 0% of connections should be websockets, we rolled 84 - using UDP as default.
+[2018-05-10 19:29:11] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2018-05-10 19:29:11] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2018-05-10 19:29:11] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.193.7:27019, UDP)
+[2018-05-10 19:29:12] [1,2] ConnectionCompleted() (162.254.193.7:27018, UDP)
+[2018-05-10 19:29:12] [1,2] RecvMsgClientLogOnResponse() : [U:1:59824344] 'Invalid Password'
+[2018-05-10 19:29:12] [1,2] AsyncDisconnect()
+[2018-05-10 19:29:12] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Invalid Password' (162.254.193.7:27018, UDP)
+[2018-05-10 19:29:12] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2018-05-10 19:29:12] [0,0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1525991352 seconds ago)
+[2018-05-10 19:29:12] [0,0] Log session ended
+
+
+[2018-05-10 19:29:24] Log session started
+[2018-05-10 19:29:24] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:24] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2018-05-10 19:29:24] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2018-05-10 19:29:25] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:25] [0,0] SetSteamID( [U:1:0] )
+[2018-05-10 19:29:25] [0,0] Server says 0% of connections should be websockets, we rolled 31 - using UDP as default.
+[2018-05-10 19:29:25] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2018-05-10 19:29:25] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2018-05-10 19:29:25] [1,2] Connect() starting connection (eNetQOSLevelHigh, 208.78.164.14:27017, UDP)
+[2018-05-10 19:29:26] [1,2] ConnectionCompleted() (162.254.193.6:27017, UDP)
+[2018-05-10 19:29:26] [1,2] RecvMsgClientLogOnResponse() : [U:1:59824344] 'Invalid Password'
+[2018-05-10 19:29:26] [1,2] AsyncDisconnect()
+[2018-05-10 19:29:26] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Invalid Password' (162.254.193.6:27017, UDP)
+[2018-05-10 19:29:26] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2018-05-10 19:30:11] [0,0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1525991411 seconds ago)
+[2018-05-10 19:30:11] [0,0] Log session ended

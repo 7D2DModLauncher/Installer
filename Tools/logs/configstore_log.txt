@@ -1,0 +1,15 @@
+
+
+[2018-05-10 19:29:10] Failed to read store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf.tmp'
+[2018-05-10 19:29:10] Failed to read store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf.tmp'
+[2018-05-10 19:29:11] Failed to read store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf.tmp'
+[2018-05-10 19:29:11] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf'
+[2018-05-10 19:29:12] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf'
+[2018-05-10 19:29:12] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf'
+
+
+[2018-05-10 19:29:24] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf' successfully
+[2018-05-10 19:29:24] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf' successfully
+[2018-05-10 19:29:25] Loaded store 'install' from 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf' successfully
+[2018-05-10 19:29:26] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf'
+[2018-05-10 19:30:11] Flushed store 'install' to 'C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\config\config.vdf'

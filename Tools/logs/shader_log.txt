@@ -1,0 +1,18 @@
+
+
+[2018-05-10 19:29:10] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_64
+[2018-05-10 19:29:10] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_64
+[2018-05-10 19:29:10] Unknown shader cache type, ignoring.
+[2018-05-10 19:29:11] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_32
+[2018-05-10 19:29:11] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_32
+[2018-05-10 19:29:11] Unknown shader cache type, ignoring.
+[2018-05-10 19:29:11] Found 0 current buckets:
+
+
+[2018-05-10 19:29:24] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_64
+[2018-05-10 19:29:24] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_64
+[2018-05-10 19:29:24] Unknown shader cache type, ignoring.
+[2018-05-10 19:29:25] Attempting to find current bucket; temporary dir: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_32
+[2018-05-10 19:29:25] Creating shader cache directory: C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\shader_cache_temp_dir_gl_32
+[2018-05-10 19:29:25] Unknown shader cache type, ignoring.
+[2018-05-10 19:29:25] Found 0 current buckets:
