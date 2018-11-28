@@ -1,6 +1,0 @@
-
-
-[2018-05-10 19:29:10] No local tool list detected at C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\compatibilitytools.vdf.
-
-
-[2018-05-10 19:29:24] No local tool list detected at C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\compatibilitytools.vdf.

@@ -1,6 +1,0 @@
-
-
-[2018-05-10 19:29:10] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\steamapps\appmanifest_*.acf".
-
-
-[2018-05-10 19:29:24] Loaded 0 apps from install folder "C:\Users\Jeff\Documents\GitHub\7D2DModLauncher\7D2DLauncher\7D2DLauncher\bin\Release\Tools\steamapps\appmanifest_*.acf".
