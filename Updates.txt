@@ -3,10 +3,10 @@
 [Update]
 Name = 7D2D Mod Launcher
 ProductVersion = 1.2.0
-URL = http://7d2dmodlauncher.org/Troubleshooting.html/downloads/7D2D Mod Launcher Installer.msi
+URL = https://github.com/7D2DModLauncher/Installer/raw/master/7D2D Mod Launcher Advanced Installer.msi
 Size = 62844416
-MD5 = 98a22b5ba61dda2ba2ad20f1c72b5961
-ServerFileName = 7D2D Mod Launcher Installer.msi
+MD5 = 7725f7e53396ca101195fcd45406051b
+ServerFileName = 7D2D Mod Launcher Advanced Installer.msi
 Flags = NoCache
 RegistryKey = HKUD\Software\SphereII Software\7D2D Mod Launcher\Version
 Version = 1.2.0
