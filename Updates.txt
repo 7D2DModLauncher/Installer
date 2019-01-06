@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = 7D2D Mod Launcher
+ProductVersion = 1.2.1
+URL = https://github.com/7D2DModLauncher/Installer/raw/master/7D2D Mod Launcher Advanced Installer.msi
+Size = 62844416
+MD5 = 4f0fe1d21a58f08b2538b7a191063b70
+ServerFileName = 7D2D Mod Launcher Advanced Installer.msi
+Flags = NoCache
+RegistryKey = HKUD\Software\SphereII Software\7D2D Mod Launcher\Version
+Version = 1.2.1
+AutoCloseApplication = [APPDIR]7D2DLauncher.exe|;;AlwaysRestart
